@@ -1,0 +1,19 @@
+# personal data: never publish
+downloaded.db
+*.db
+*.db-journal
+*.db-wal
+links.txt
+ids.txt
+*.cbz
+*.part
+*.lnk
+
+# credentials
+config.json
+.nhentai/
+.env
+
+# misc
+__pycache__/
+*.pyc
